@@ -1,7 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Uriel Abergel 👨‍💻
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=urielabergel&show_icons=true&theme=merko)
-
 # About Me
 I'm currently a third year student in computer science, I'm passionate about technologies and love to learn and explore new things, currently looking for my first opportunity to study and specialize.
 
@@ -35,3 +33,5 @@ Here are a few things I've picked up along my learning journey.
 
 <br />
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=urielabergel&show_icons=true&theme=merko)
