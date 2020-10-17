@@ -1,6 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Uriel Abergel 👨‍💻
 
-# About Me
 I'm currently a third year student in computer science, I'm passionate about technologies and love to learn and explore new things, currently looking for my first opportunity to study and specialize.
 
 
