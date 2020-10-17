@@ -35,8 +35,6 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-
-
-
+## GitHubGitHub_Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=urielabergel&show_icons=true&theme=merko)
