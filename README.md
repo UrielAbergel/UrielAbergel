@@ -10,6 +10,7 @@ Here are a few things I've picked up along my learning journey.
 
 * 🗣 Java | C++ | C | Python | Bash | Computer Networking
 * 🛢️ MySQL | SQLite | MongoDB | 
+* :game_die: VScode | Intellij | AndroidStudio | Clion | Pycharm
 * :octocat: Git | Github
 * 📟 Linux | Win |
 
